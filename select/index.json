@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "定命",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-02-23T01:40:03.325935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "定命",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/01_定命_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "定命",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": true,
+      "path": "select/02_定命_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "定命",
+      "artist": "V.W.P, 花譜, 理芽, 春猿火, ヰ世界情緒, 幸祜",
+      "has_synced": false,
+      "path": "select/pl_01_定命_V.W.P,_花譜,_理芽,_春猿火,_ヰ世界情緒,_幸祜.txt"
+    }
+  ]
+}
